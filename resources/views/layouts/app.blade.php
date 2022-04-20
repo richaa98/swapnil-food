@@ -27,7 +27,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body class="bg-light">
+<body style="background-color:#f5e692;">
   <!-- Nav Section -->
   <div class="nav">
     <div class="container">

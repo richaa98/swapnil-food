@@ -83,7 +83,7 @@
               Sweet Potato Fries Bowl
             </h2>
             <h3 class="ourSpecials__item__price">
-              $18
+              ₹:18
             </h3>
             <div class="ourSpecials__item__stars">
               <img src="./images/3star.png" alt="3 stars">
@@ -102,7 +102,7 @@
               Vegan Salad bowl
             </h2>
             <h3 class="ourSpecials__item__price">
-              $18
+              ₹:18
             </h3>
             <div class="ourSpecials__item__stars">
               <img src="./images/3star.png" alt="3 stars">
@@ -143,7 +143,7 @@
             <h3 class="dishGrid__item__title">
               Vegan Salad bowl
             </h3>
-            <h3 class="dishGrid__item__price">$12</h3>
+            <h3 class="dishGrid__item__price">₹:12</h3>
             <div class="dishGrid__item__stars">
               <img src="./images/3star.png" alt="3 star">
             </div>
@@ -157,7 +157,7 @@
             <h3 class="dishGrid__item__title">
               Vegan Pesto Zoodles
             </h3>
-            <h3 class="dishGrid__item__price">$12</h3>
+            <h3 class="dishGrid__item__price">₹:12</h3>
             <div class="dishGrid__item__stars">
               <img src="./images/3star.png" alt="3 star">
             </div>
@@ -171,7 +171,7 @@
             <h3 class="dishGrid__item__title">
               Hot Green Bowl
             </h3>
-            <h3 class="dishGrid__item__price">$12</h3>
+            <h3 class="dishGrid__item__price">₹:12</h3>
             <div class="dishGrid__item__stars">
               <img src="./images/3star.png" alt="3 star">
             </div>
@@ -200,8 +200,8 @@
           <h3 class="discount__text">20% OFF</h3>
           <h3 class="discount__title">Demo Dish For Discount</h3>
           <h3 class="discount__price">
-            <span class="discount__oldPrice">$45</span>
-            <span class="discount__newPrice">$35</span>
+            <span class="discount__oldPrice">₹:45</span>
+            <span class="discount__newPrice">₹:35</span>
           </h3>
           <div class="discount__stars">
             <img src="./images/3star.png" alt="3 stars">
