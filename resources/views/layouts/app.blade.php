@@ -32,7 +32,7 @@
   <div class="nav">
     <div class="container">
       <div class="nav__wrapper">
-        <a href="./index.html" class="logo">
+        <a href="/" class="logo">
           <img src="./images/logo.svg" alt="shaif's cuisine">
         </a>
         <nav>
